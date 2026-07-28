@@ -165,6 +165,7 @@ measured performance rests on properties of this particular dataset.
 
 ## Team contributions
 
+| Area | Owner |
 |---|---|
 | Repository setup, Colab environment, dataset access | Aditi |
 | `01_eda.ipynb` — exploratory data analysis | Aditi |
